@@ -1,6 +1,12 @@
-### Hi there 👋 . Thanks for visiting my profile.
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Thanks for visiting my profile.</h1>
+<h1 align="center">I'm Atul</h1>
 
-## I'm Atul
+### My experience and intrests are-
+* Deep learning
+* Machine learning 
+* Data Analysis
+* Statistics for data analysis 
+
 
 <!--
 **iamatul1214/iamatul1214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
