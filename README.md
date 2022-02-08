@@ -14,10 +14,14 @@
   
  -🌱 I’m currently learning Deep learning with Computer vision and Natural language processing.
   
- -📫 How to reach me: [<img align="left" alt="Atul's | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
+  ### Connect with me on
+ [<img align="left" alt="Atul's | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
+ [<img align="left" alt="Atul's | Instagram" width="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][Instagram]
+
   
   
   [linkedin]: https://www.linkedin.com/in/atul-kumar-rai-453bb7145/
+  [Instagram]: https://www.instagram.com/iamatul_rai/
 <!--
 **iamatul1214/iamatul1214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
