@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 . Thanks for visiting my profile.
+
+## I'm Atul
 
 <!--
 **iamatul1214/iamatul1214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
