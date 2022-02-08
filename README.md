@@ -12,8 +12,9 @@
   
   
   
- 🌱 I’m currently learning Deep learning with Computer vision and Natural language processing.
-  📫 How to reach me: [<img align="left" alt="Atul's | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
+ -🌱 I’m currently learning Deep learning with Computer vision and Natural language processing.
+  
+ -📫 How to reach me: [<img align="left" alt="Atul's | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
   
   
   [linkedin]: https://www.linkedin.com/in/atul-kumar-rai-453bb7145/
