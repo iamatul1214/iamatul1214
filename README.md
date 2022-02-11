@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Thanks for visiting my profile.</h1>
 <h1 align="center">I'm Atul</h1>
 
-### My experience and intrests are-
+### My experience and interests are-
 * Deep learning
 * Machine learning 
 * Data Analysis
