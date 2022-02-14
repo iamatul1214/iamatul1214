@@ -12,7 +12,7 @@
   
   
   
- -🌱 I’m currently learning Deep learning with Computer vision and Natural language processing.
+ -🌱 I’m currently studying Deep learning with Computer vision and Natural language processing.
   
   ### Connect with me on
  [<img align="left" alt="Atul's | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
