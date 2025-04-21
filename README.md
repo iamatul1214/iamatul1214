@@ -2,6 +2,7 @@
 <h1 align="center">I'm Atul</h1>
 
 ### My experience and interests are-
+* Gen AI
 * Deep learning
 * Machine learning 
 * Data Analysis
