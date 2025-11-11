@@ -3,6 +3,8 @@
 
 ### My experience and interests are-
 * Gen AI
+* Agentic AI
+* LLMs
 * Deep learning
 * Machine learning 
 * Data Analysis
