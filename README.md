@@ -65,3 +65,5 @@ Currently, I’m building on the foundations of **Agentic AI**, **LLMs**, and **
 <p align="center">
   <i>“The goal is not just to build intelligent systems — but systems that can build intelligence themselves.”</i>
 </p>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=iamatul1214)
