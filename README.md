@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 I’m an AI developer deeply fascinated by how intelligent systems can **reason, plan, and act autonomously**.  
-Currently, I’m building on the foundations of **Agentic AI**, **LLMs**, and **MCP (Model Context Protocol) servers** to create more dynamic and connected AI workflows.
+Currently, I’m building on the foundations of **Machine learning system design** , **Agentic AI**, **LLMs**, and **MCP (Model Context Protocol) servers** to create more dynamic and connected AI workflows.
 
 ### 🧠 Areas of Expertise
 - **Agentic AI & LLM Architectures** — Building modular and autonomous systems powered by large models.  
